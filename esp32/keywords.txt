@@ -1,0 +1,16 @@
+Uestra	KEYWORD1
+Client	KEYWORD1
+Departure	KEYWORD1
+Stop	KEYWORD1
+Status	KEYWORD1
+Error	KEYWORD1
+searchStops	KEYWORD2
+departures	KEYWORD2
+setLineFilter	KEYWORD2
+setDirectionFilter	KEYWORD2
+setFetchLimit	KEYWORD2
+setCACert	KEYWORD2
+setInsecure	KEYWORD2
+delayMin	KEYWORD2
+minutesUntil	KEYWORD2
+formatClock	KEYWORD2
