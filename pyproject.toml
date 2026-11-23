@@ -7,6 +7,8 @@ name = "uestra-abfahrten"
 version = "0.1.0"
 description = "Echtzeit-Abfahrten und Verbindungen der Üstra/GVH (HAFAS), nur Standardbibliothek"
 readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "JKBusse" }]
 requires-python = ">=3.10"
 dependencies = []
 

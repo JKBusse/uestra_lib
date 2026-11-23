@@ -61,3 +61,9 @@ python3 -m unittest -v      # Tests laufen offline, ohne Netzwerk
 ```
 
 Optional als Befehl `uestra` installieren: `pip install -e .`
+
+## Lizenz und Hinweis
+
+[MIT](LICENSE) – die Lizenz gilt nur für diesen Code, nicht für Daten oder Schnittstelle.
+Das Projekt ist inoffiziell und steht in keiner Verbindung zu Üstra, GVH oder HAFAS
+(Hacon/Siemens Mobility); die Namen gehören ihren jeweiligen Inhabern.
