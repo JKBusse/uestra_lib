@@ -47,6 +47,11 @@ python3 uestra_abfahrten.py --von Kröpcke --nach Flughafen --ab 18:30 -n 5
 Debugging: `--debug` speichert die Rohantwort in `antwort.json`, `--file antwort.json`
 wertet sie offline aus.
 
+## ESP32
+
+Für Mikrocontroller gibt es eine Arduino-Bibliothek im Ordner [esp32/](esp32/README.md)
+(Abfahrten, Filter, Haltestellensuche).
+
 ## Hinweise
 
 - Der Server liefert Abfahrten nur bis 24:00 des angefragten Tages. Das Tool lädt bei

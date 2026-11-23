@@ -8,3 +8,7 @@ dist/
 
 # Rohantwort aus --debug
 antwort.json
+
+# ESP32-Host-Tests
+esp32/test/host/.deps/
+esp32/test/host/test_core
